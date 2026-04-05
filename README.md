@@ -21,8 +21,9 @@
 | **DShield** | IN / OUT | Community-driven feed of scanning and exploit attempt sources | [Link](https://www.dshield.org/) |
 | **Emerging Threats** | IN / OUT | Compromised hosts and botnet infrastructure | [Link](https://community.emergingthreats.net/) |
 | **ThreatFox** | IN / OUT | IPs linked to malware campaigns and ransomware activity | [Link](https://threatfox.abuse.ch/) |
-| **Tor Exit Nodes** | IN | Public Tor exit nodes used for anonymized traffic
-| **Unified Blocklist** | IN | Consolidated list combining multiple feeds above
+| **BruteForceBlocker** | IN | IPs reported for repeated failed authentication attempts (SSH brute-force activity) | [Link](https://danger.rulez.sk) |
+| **Tor Exit Nodes** | IN | Public Tor exit nodes used for anonymized traffic | N/A |
+| **Unified Blocklist** | IN | Consolidated list combining multiple feeds above | N/A |
 
 ---
 
