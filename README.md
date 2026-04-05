@@ -10,19 +10,19 @@
 
 ## Feeds
 
-| Feed | Direction | Description |
-|------|----------|------------|
-| **FireHOL Level 1** | IN | General-purpose blocklist of aggressive IPs involved in attacks, scans, and suspicious behavior |
-| **GreenSnow IP Blocklist** | IN | Blacklist of IPs involved in brute-force, scanning, and infrastructure attacks |
-| **IPSum Level 3** | IN | Strict blocklist of high-risk IPs for aggressive filtering |
-| **Spamhaus** | IN / OUT | Reputation-based blocklist of spam, malware, and botnet-related IPs |
-| **Blocklist.de** | IN | IPs flagged for SSH, FTP, and web-based attacks from honeypots |
-| **CINSscore** | IN | Reputation-based list of IPs involved in scanning and exploitation |
-| **DShield** | IN / OUT | Community-driven feed of scanning and exploit attempt sources |
-| **Emerging Threats** | IN / OUT | Compromised hosts and botnet infrastructure |
-| **ThreatFox** | IN / OUT | IPs linked to malware campaigns and ransomware activity |
-| **Tor Exit Nodes** | IN | Public Tor exit nodes used for anonymized traffic |
-| **Unified Blocklist** | IN | Consolidated list combining multiple feeds above |
+| Feed | Direction | Description | Read More |
+|------|----------|------------|-----------|
+| **FireHOL Level 1** | IN | General-purpose blocklist of aggressive IPs involved in attacks, scans, and suspicious behavior | [Link](https://iplists.firehol.org/?ipset=firehol_level1) |
+| **GreenSnow IP Blocklist** | IN | Blacklist of IPs involved in brute-force, scanning, and infrastructure attacks | [Link](https://greensnow.co/) |
+| **IPSum Level 3** | IN | Strict blocklist of high-risk IPs for aggressive filtering | [Link](https://github.com/stamparm/ipsum) |
+| **Spamhaus** | IN / OUT | Reputation-based blocklist of spam, malware, and botnet-related IPs | [Link](https://www.spamhaus.org/) |
+| **Blocklist.de** | IN | IPs flagged for SSH, FTP, and web-based attacks from honeypots | [Link](https://www.blocklist.de/en/index.html) |
+| **CINSscore** | IN | Reputation-based list of IPs involved in scanning and exploitation | [Link](https://cinsscore.com/) |
+| **DShield** | IN / OUT | Community-driven feed of scanning and exploit attempt sources | [Link](https://www.dshield.org/) |
+| **Emerging Threats** | IN / OUT | Compromised hosts and botnet infrastructure | [Link](https://community.emergingthreats.net/) |
+| **ThreatFox** | IN / OUT | IPs linked to malware campaigns and ransomware activity | [Link](https://threatfox.abuse.ch/) |
+| **Tor Exit Nodes** | IN | Public Tor exit nodes used for anonymized traffic
+| **Unified Blocklist** | IN | Consolidated list combining multiple feeds above
 
 ---
 
