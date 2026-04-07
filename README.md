@@ -17,6 +17,7 @@
 | **IPSum Level 3** | IN | Strict blocklist of high-risk IPs for aggressive filtering | [Link](https://github.com/stamparm/ipsum) |
 | **Spamhaus** | IN / OUT | Reputation-based blocklist of spam, malware, and botnet-related IPs | [Link](https://www.spamhaus.org/) |
 | **Blocklist.de** | IN | IPs flagged for SSH, FTP, and web-based attacks from honeypots | [Link](https://www.blocklist.de/en/index.html) |
+| **Binary Defense** | IN | A public threat-intelligence feed of malicious IPv4 indicators collected from Binary Defense’s Artillery honeypot/threat intel program, intended for security tooling and blocklisting. | [Link]([https://cinsscore.com/](https://binarydefense.com/)) |
 | **CINSscore** | IN | Reputation-based list of IPs involved in scanning and exploitation | [Link](https://cinsscore.com/) |
 | **DShield** | IN / OUT | Community-driven feed of scanning and exploit attempt sources | [Link](https://www.dshield.org/) |
 | **Emerging Threats** | IN / OUT | Compromised hosts and botnet infrastructure | [Link](https://community.emergingthreats.net/) |
