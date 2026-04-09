@@ -62,3 +62,9 @@ You are fully responsible for validating and applying these feeds in your enviro
 ## License
 
 No explicit license provided. Verify usage rights from original sources if required.
+
+---
+
+⭐ **If you find this useful, consider giving the repo a star!**
+
+---
